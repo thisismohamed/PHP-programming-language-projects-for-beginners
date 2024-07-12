@@ -5,7 +5,7 @@
   </head>
   <body>
     <?php
-echo "Hello PHP community";
+echo "The time is: ".date("H:i);
 ?>
   </body>
 </html>
